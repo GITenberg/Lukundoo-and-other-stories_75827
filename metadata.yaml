@@ -1,5 +1,8 @@
 _repo: Lukundoo-and-other-stories_75827
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 75827-h/images/cover.jpg
 creator:
   author:
     agent_name: White, Edward Lucas
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1929
     wikipedia: https://en.wikipedia.org/wiki/Edward_Lucas_White
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75827#Lukundoo-and-other-stories
 gutenberg_issued: '2025-04-09'
 gutenberg_type: Text
 identifiers:
